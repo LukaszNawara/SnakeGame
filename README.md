@@ -1,0 +1,1 @@
+Niestety nie miałem nokogo do pomocy więc większośc rzeczy robiłem sam , ale jest to gra snake , wystarczy skopiować i wkleić kod do programu kompilującego kod . Przez okres tworzenia tego zostało dodanych troche zmian.
